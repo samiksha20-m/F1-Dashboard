@@ -1,0 +1,42 @@
+body{
+    background:#0d0d0d;
+    color:white;
+    font-family:Arial,sans-serif;
+    text-align:center;
+}
+
+h1{
+    color:#e10600;
+}
+
+.table-container{
+    width:70%;
+    margin:auto;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+
+th,td{
+    border:1px solid #444;
+    padding:12px;
+}
+
+th{
+    background:#e10600;
+}
+
+tr:hover{
+    background:#222;
+}
+
+.chart-container{
+    width:70%;
+    margin:30px auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+}
